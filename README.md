@@ -37,15 +37,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fengjui1226&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fengjui1226&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
 ## Currently
 - 準備開始 **運動數據分析** 專案
 - 歡迎聯繫：[Email](mailto:113306008@g.nccu.edu.tw) / [LinkedIn](https://linkedin.com/in/fengjui)
